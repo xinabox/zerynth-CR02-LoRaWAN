@@ -1,0 +1,21 @@
+{
+    "fullname": "lib.xinabox.cr02-lorawan",
+    "git_pointer": "github://xinabox/zerynth-CR02-LoRaWAN",
+    "title": "XinaBox CR02-LoRaWAN",
+    "description": "Module for XinaBox CR02-LoRaWAN and The Things Network",
+    "keywords": [
+        "LoRaWAN",
+        "868MHz",
+        "TTN",
+        "CR02",
+        "xinabox"
+    ],
+    "info": {
+        "chip_manufacturer": "XinaBox",
+        "chip_name": "CR02",
+        "name": "LoRa Driver",
+        "type": "Connectivity"
+    }, 
+    "repo": "official",
+    "version": "r2.1.2"
+}
