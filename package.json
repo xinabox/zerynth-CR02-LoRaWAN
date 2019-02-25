@@ -1,6 +1,6 @@
 {
     "description": "Module for XinaBox CR02-LoRaWAN and The Things Network",
-    "fullname": "lib.xinabox.cr02-lorawan",
+    "fullname": "lib.xinabox.cr02",
     "git_pointer": "github://xinabox/zerynth-CR02-LoRaWAN",
     "info": {
         "chip_manufacturer": "XinaBox",
